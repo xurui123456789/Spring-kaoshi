@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot-Vue-OnlineExam-master.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot-Vue-OnlineExam-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/exam.iml" filepath="$PROJECT_DIR$/springboot/exam.iml" />
     </modules>
   </component>
 </project>
